@@ -11,4 +11,4 @@ for i in range (1):
         if li[j][0]==item:
             c1=li[j][1]
             b=b+c1
-print("Total Amount to be payed","=", bill," = Rs",b)
+print("Total Amount to be pa yed","=", bill," = Rs",b)
